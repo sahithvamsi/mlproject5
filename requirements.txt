@@ -1,3 +1,4 @@
-pandas 
-numpy
-seaborn 
+pandas  # Latest version of Pandas
+numpy  # Latest version of NumPy
+seaborn
+-e .

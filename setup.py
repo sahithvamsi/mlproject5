@@ -16,7 +16,6 @@ def get_requirements(file_path:str)->List[str]:
 setup(
      name = "up",
       
-      version ="0.01",
       author = "sahith",
       author_email='sahithvamsi94@gmail.com',
       packages = find_packages(),
